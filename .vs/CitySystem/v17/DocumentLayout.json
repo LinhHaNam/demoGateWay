@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky8\\PRN232\\code\\demoGateWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D299D5-C825-407C-A71F-39719A240A01}|Payments\\Payments.csproj|d:\\ky8\\prn232\\code\\demogateway\\payments\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D299D5-C825-407C-A71F-39719A240A01}|Payments\\Payments.csproj|solutionrelative:payments\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D66B9-1684-49A8-BF78-E2A94466F1C5}|Residents\\Residents.csproj|d:\\ky8\\prn232\\code\\demogateway\\residents\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7D66B9-1684-49A8-BF78-E2A94466F1C5}|Residents\\Residents.csproj|solutionrelative:residents\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|d:\\ky8\\prn232\\code\\demogateway\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|solutionrelative:gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|d:\\ky8\\prn232\\code\\demogateway\\mainapp\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|d:\\ky8\\prn232\\code\\demogateway\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|solutionrelative:gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D66B9-1684-49A8-BF78-E2A94466F1C5}|Residents\\Residents.csproj|d:\\ky8\\prn232\\code\\demogateway\\residents\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A7D66B9-1684-49A8-BF78-E2A94466F1C5}|Residents\\Residents.csproj|solutionrelative:residents\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D299D5-C825-407C-A71F-39719A240A01}|Payments\\Payments.csproj|d:\\ky8\\prn232\\code\\demogateway\\payments\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24D299D5-C825-407C-A71F-39719A240A01}|Payments\\Payments.csproj|solutionrelative:payments\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|d:\\ky8\\prn232\\code\\demogateway\\mainapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|d:\\ky8\\prn232\\code\\demogateway\\mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|d:\\ky8\\prn232\\code\\demogateway\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|solutionrelative:gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|d:\\ky8\\prn232\\code\\demogateway\\mainapp\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E0A7F95-3219-4EA3-A01A-96123B03043B}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D66B9-1684-49A8-BF78-E2A94466F1C5}|Residents\\Residents.csproj|d:\\ky8\\prn232\\code\\demogateway\\residents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7D66B9-1684-49A8-BF78-E2A94466F1C5}|Residents\\Residents.csproj|solutionrelative:residents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D299D5-C825-407C-A71F-39719A240A01}|Payments\\Payments.csproj|d:\\ky8\\prn232\\code\\demogateway\\payments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D299D5-C825-407C-A71F-39719A240A01}|Payments\\Payments.csproj|solutionrelative:payments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|d:\\ky8\\prn232\\code\\demogateway\\gateway\\gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F09A9CA-8329-4F12-897F-AC8D25BB6984}|Gateway\\Gateway.csproj|solutionrelative:gateway\\gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Gateway\\Program.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\Program.cs",
+              "RelativeToolTip": "Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:27:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Gateway\\appsettings.json",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\appsettings.json",
+              "RelativeToolTip": "Gateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T15:27:18.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\Controller\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MainApp\\Controller\\ValuesController.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\Controller\\ValuesController.cs",
+              "RelativeToolTip": "MainApp\\Controller\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:28:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Residents\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Residents\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Residents\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Residents\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T15:31:28.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Payments\\Controller\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Payments\\Controller\\ValuesController.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Payments\\Controller\\ValuesController.cs",
+              "RelativeToolTip": "Payments\\Controller\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:29:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Residents\\Controller\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Residents\\Controller\\ValuesController.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Residents\\Controller\\ValuesController.cs",
+              "RelativeToolTip": "Residents\\Controller\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:30:29.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Payments\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Payments\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Payments\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Payments\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T15:31:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MainApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MainApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T15:30:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainApp\\Program.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\Program.cs",
+              "RelativeToolTip": "MainApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:37:34.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T15:31:37.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainApp.csproj",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\MainApp.csproj",
+              "RelativeDocumentMoniker": "MainApp\\MainApp.csproj",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\MainApp\\MainApp.csproj",
+              "RelativeToolTip": "MainApp\\MainApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T15:39:19.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Residents\\Program.cs",
+              "RelativeDocumentMoniker": "Residents\\Program.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Residents\\Program.cs",
+              "RelativeToolTip": "Residents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:39:05.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Payments\\Program.cs",
+              "RelativeDocumentMoniker": "Payments\\Program.cs",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Payments\\Program.cs",
+              "RelativeToolTip": "Payments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:38:51.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gateway.csproj",
+              "DocumentMoniker": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\Gateway.csproj",
+              "RelativeDocumentMoniker": "Gateway\\Gateway.csproj",
+              "ToolTip": "D:\\Ky8\\PRN232\\code\\demoGateWay\\Gateway\\Gateway.csproj",
+              "RelativeToolTip": "Gateway\\Gateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T15:34:47.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
