@@ -2,7 +2,7 @@
   {
     "ContainingType": "Payments.Controller.ValuesController",
     "Method": "Hello",
-    "RelativePath": "payments/hello",
+    "RelativePath": "Payments/hello",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

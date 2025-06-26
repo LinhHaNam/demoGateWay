@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Residents.Controller
 {
-    [Route("residents")]
+    [Route("Residents")]
     [ApiController]
     public class ValuesController : ControllerBase
     {

@@ -2,7 +2,7 @@
   {
     "ContainingType": "MainApp.Controller.ValuesController",
     "Method": "Hello",
-    "RelativePath": "main/hello",
+    "RelativePath": "User/hello",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

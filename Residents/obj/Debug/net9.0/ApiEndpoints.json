@@ -2,7 +2,7 @@
   {
     "ContainingType": "Residents.Controller.ValuesController",
     "Method": "Hello",
-    "RelativePath": "residents/hello",
+    "RelativePath": "Residents/hello",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
